@@ -1,0 +1,30 @@
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\bin\Debug\whiteboard01.exe.config
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\bin\Debug\whiteboard01.exe
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\bin\Debug\whiteboard01.pdb
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.csproj.AssemblyReference.cache
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.Form1.resources
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.Properties.Resources.resources
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.csproj.GenerateResource.cache
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.csproj.CoreCompileInputs.cache
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.exe
+C:\Users\omers\Source\Repos\whiteboard01\whiteboard01\obj\Debug\whiteboard01.pdb
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\bin\Debug\whiteboard01.exe.config
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\bin\Debug\whiteboard01.exe
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\bin\Debug\whiteboard01.pdb
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.Form1.resources
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.Properties.Resources.resources
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.csproj.GenerateResource.cache
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.csproj.CoreCompileInputs.cache
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.exe
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.pdb
+C:\Users\omers\Desktop\גיבוי של הפרוייקט\גיבוי 2\whiteboard01\obj\Debug\whiteboard01.csproj.AssemblyReference.cache
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\bin\Debug\whiteboard01.exe.config
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\bin\Debug\whiteboard01.exe
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\bin\Debug\whiteboard01.pdb
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.csproj.AssemblyReference.cache
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.Form1.resources
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.Properties.Resources.resources
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.csproj.GenerateResource.cache
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.csproj.CoreCompileInputs.cache
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.exe
+C:\Users\omers\Desktop\פרוייקט גמר מונחה עצמים להגשה\whiteboard01\obj\Debug\whiteboard01.pdb
