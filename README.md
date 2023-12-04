@@ -27,6 +27,12 @@ This project is a simple Windows painter application implemented in C# using Obj
  <img src='https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white' alt='Object-Oriented Programming'/>
 </div>
 
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+    <img src="Screenshots1.png" width="300" alt="Screenshot 1">
+       
+</div>
 
 ## License
 ![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
