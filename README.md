@@ -4,7 +4,7 @@ This project is a simple Windows painter application implemented in C# using Obj
 
 ## Features
 - **OOP**
-- 
+
 ## How to Use
 1. **Clone the Repository:**
    ```bash
@@ -20,11 +20,16 @@ This project is a simple Windows painter application implemented in C# using Obj
 4. **Draw**
    - Use the mouse to draw ellipses on the canvas.
    - Choose the fill option and customize color and width.
+     
+## Technology Used
+<div>
+ <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#'/>
+ <img src='https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=oop&logoColor=white' alt='Object-Oriented Programming'/>
+</div>
 
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
 
 
 ---
