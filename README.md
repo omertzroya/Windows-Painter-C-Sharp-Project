@@ -3,7 +3,7 @@
 This project is a simple Windows painter application implemented in C# using Object-Oriented Programming (OOP) principles. The application allows users to draw and fill ellipses on a canvas.
 
 ## Features
-- **Object-Oriented Programming (OOP) **
+- **Object-Oriented Programming (OOP)**
 
 ## How to Use
 1. **Clone the Repository:**
